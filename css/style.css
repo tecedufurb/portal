@@ -1,0 +1,8 @@
+.bg-layout {
+    background-image: url("../img/students.jpg");
+    background-repeat: no-repeat;
+    width: auto; /*or your image's width*/
+    height: auto; /*or your image's height*/
+    margin: 0;
+    padding: 0;
+}
